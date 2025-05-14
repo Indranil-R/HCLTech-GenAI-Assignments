@@ -1,4 +1,10 @@
 python-dotenv
-langchain
+kagglehub
+pandas
+requests
+ipython
+google
+protobuf
+openai
 google-genai
-kaggle
+huggingface_hub

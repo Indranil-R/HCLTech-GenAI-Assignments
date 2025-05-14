@@ -1,0 +1,55 @@
+1. Implement a question answering system with RAG, word embedding, vector database, langchain, llm and any other tools
+
+2. Implement a RAG system for extracting information from multiple excel sheets using LLM, Langchain, word embedding, excel sheet prompt and others tools if necessary. If possible display the extracted information in a table format
+
+3. Act as a Python developer. Write code to read and print duplicate records from the provided CSV file, remove it from the old csv file and give the updated csv file
+
+4.can you tell me what is the Big O notation for the following code?
+Provide a piece of code and ask to improve the efficiency of the program
+
+5. create a simple python program to print the list of models in ChatGPT, Gemini and hugging face?
+
+6. Provide a python implementation of the TF-IDF algorithm, and implement it on a small corpus of data which has 3 sentences?
+
+7. Create a CNN model for doing image recognition and do a model inference for the type of dog breed you show. Train the model with different dog breeds write to all program code ?
+
+8. Using any dataset create a self-trained Glove vector model. Then make use of this model, to find the embedding of the given word.?
+
+9. Use a prebuilt Word2vec model to find the embedding of the given word. ?
+
+10. Perform the task of audio streaming from English text to English voice using any of the free open-source APIs or google or Facebook using llama or Gemini.?
+
+
+11. Perform the task of voice audio in English to  English text using any of the free open-source APIs or google or Facebook using llama or Gemini
+
+12. Assignments using RAG and Langchain: Use Lang chain and Retrieval Augmented Generation, (RAG), and answer a question from the user using multiple PDF documents connected to the LLM using OpenAI. You can read the question and refer the multiple PDF documents to answer the question. You can use the APIs of any other open source LLM too.
+
+13. Assignments using RAG and Langchain: Use Lang chain and Retrieval Augmented Generation, (RAG), and answer a question from the user using multiple text documents (.txt files) connected to the LLM using OpenAI. You can read the question and refer the multiple text documents to answer the question. You can use the APIs of any other open source LLM too.
+
+14. Create a simple generative adversarial network (GAN), and train it using the CIFAR image sets, do model inference with a single image
+
+15. We have the transformer based LLM model that we created with pytorch, train this LLM model using an appropriate dataset, and do model inference using this LLM?
+
+16. Write a program for tree of thoughts prompting using openai and gemini
+
+17. Implement a multi variate linear regression for a practical, bangalore based house price prediction dataset given, and predict the price of the house
+
+18. Implement a multi variate linear regression for a practical salary prediction dataset and predict the salary
+
+19. Build and train loan approval prediction model for the practical loan dataset given. you can use KNN or any other algorithm for classification
+
+
+Assignments use the following guidline
+
+1. You need to solve 9 problems from the above
+2. Take any two from 17,18,19
+3. Take 1,2,3
+4. Take any 4 from the rest of the programs
+
+
+what you are supposed to do for 17,18,19
+
+1. build a model
+2. predict the price or loan approval or salary
+3. reduce the variables
+4. visualize
