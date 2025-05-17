@@ -7,7 +7,7 @@
 4.can you tell me what is the Big O notation for the following code?
 Provide a piece of code and ask to improve the efficiency of the program
 
-5. create a simple python program to print the list of models in ChatGPT, Gemini and hugging face?
+5. create a simple python program to print the list of models in ChatGPT, Gemini and hugging face? ✅
 
 6. Provide a python implementation of the TF-IDF algorithm, and implement it on a small corpus of data which has 3 sentences?
 
@@ -30,7 +30,7 @@ Provide a piece of code and ask to improve the efficiency of the program
 
 15. We have the transformer based LLM model that we created with pytorch, train this LLM model using an appropriate dataset, and do model inference using this LLM?
 
-16. Write a program for tree of thoughts prompting using openai and gemini
+16. Write a program for tree of thoughts prompting using openai and gemini ✅
 
 17. Implement a multi variate linear regression for a practical, bangalore based house price prediction dataset given, and predict the price of the house
 
