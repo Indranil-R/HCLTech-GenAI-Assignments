@@ -1,8 +1,8 @@
-1. Implement a question answering system with RAG, word embedding, vector database, langchain, llm and any other tools
+1. Implement a question answering system with RAG, word embedding, vector database, langchain, llm and any other tools ✅
 
 2. Implement a RAG system for extracting information from multiple excel sheets using LLM, Langchain, word embedding, excel sheet prompt and others tools if necessary. If possible display the extracted information in a table format
 
-3. Act as a Python developer. Write code to read and print duplicate records from the provided CSV file, remove it from the old csv file and give the updated csv file
+3. Act as a Python developer. Write code to read and print duplicate records from the provided CSV file, remove it from the old csv file and give the updated csv file ✅
 
 4.can you tell me what is the Big O notation for the following code?
 Provide a piece of code and ask to improve the efficiency of the program
