@@ -2,11 +2,10 @@ ipython
 jupyter
 python-dotenv
 kagglehub
-pandas==2.2.2
+pandas
 requests
 ipython
 google
-protobuf
 openai
 huggingface_hub
 langchain-google-genai
@@ -14,3 +13,8 @@ google-ai-generativelanguage
 langchain_community
 google-genai
 langchain_chroma
+langchain
+langchain-core
+numpy
+streamlit
+langchain-text-splitters
